@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tui-101
+- 👀 I’m interested in sleeping, cubing etc.
+- 🌱 I’m currently studying in high school.
+- 💞️ I’m looking to collaborate with no one.
+- 📫 There's no way to reach me other than this github.
